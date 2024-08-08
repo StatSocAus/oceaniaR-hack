@@ -12,7 +12,7 @@ website:
       - icon: github
         menu:
           - text: Report a Bug
-            href:  https://bugs.com
+            href:  https://github.com/StatSocAus/oceaniaR-hack/issues
   page-footer: "Please see the attached [Code of Conduct](https://github.com/StatSocAus/oceaniaR-hack/blob/main/CODEOFCONDUCT.md)." 
 
 format:

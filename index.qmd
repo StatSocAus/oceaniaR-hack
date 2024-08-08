@@ -33,7 +33,7 @@ If you would like to attend. Please complete the following [Expression of Intere
 
 There is no charge for the event.   
 
-**We are excited to offer a diversity scholarship up to $1000 to support travel costs for persons who are from underrepresented groups**
+**We are excited to offer a diversity scholarship up to $1000 to support travel costs for persons who are from underrepresented groups to attend this day, in addition to participating in the 2024 WOMBAT meeting.**
 
 
 ::: {.callout-note}
@@ -45,7 +45,7 @@ Due to limited space, completing this form does not guarantee attendance. The or
 
 Monday 21st October 2024. 9:00am - 4:00pm. In-person only.
 
-*This is the day before the WOMBAT 2024 meeting in Melbourne on the 22nd & 23rd October. More info coming soon.*
+*This is the day before the WOMBAT 2024 meeting in Melbourne on the 22nd & 23rd October. More info coming soon!*
 
 ## The Venue   
 
@@ -64,3 +64,7 @@ for this event.
 
 [![](logo/wave.png){width=20%}](https://www.wavedatalabs.com.au/)
 
+
+## Questions  
+
+If you have a question, please file an [Issue here](https://github.com/StatSocAus/oceaniaR-hack/issues)
