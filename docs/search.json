@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "CODEOFCONDUCT.html",
+    "href": "CODEOFCONDUCT.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "Code of Conduct"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "OceaniaR Hackathon 2024",
@@ -33,12 +40,5 @@
     "title": "OceaniaR Hackathon 2024",
     "section": "Sponsors",
     "text": "Sponsors\nThank you to the generous support of our sponsors for covering the costs and venue for this event."
-  },
-  {
-    "objectID": "CODEOFCONDUCT.html",
-    "href": "CODEOFCONDUCT.html",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "Code of Conduct"
   }
 ]
