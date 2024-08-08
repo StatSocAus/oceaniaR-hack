@@ -12,7 +12,7 @@ website:
         menu:
           - text: Report a Bug
             href:  https://bugs.com
-  page-footer: "Please see the attached [Code of Conduct]()." 
+  page-footer: "Please see the attached [Code of Conduct](https://github.com/StatSocAus/oceaniaR-hack/blob/main/CODEOFCONDUCT.md)." 
 
 format:
   html:
