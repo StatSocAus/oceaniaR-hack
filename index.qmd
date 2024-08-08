@@ -45,7 +45,7 @@ Due to limited space, completing this form does not guarantee attendance. The or
 
 Monday 21st October 2024. 9:00am - 4:00pm. In-person only.
 
-*This is the day before the WOMBAT 2024 meeting in Melbourne on the 22nd & 23rd October. More info coming soon!*
+*This is the day before the WOMBAT 2024 meeting in Melbourne on the 22nd & 23rd October. [Register here.](https://wombat2024.numbat.space/)*
 
 ## The Venue   
 
@@ -67,4 +67,6 @@ for this event.
 
 ## Questions  
 
-If you have a question, please file an [Issue here](https://github.com/StatSocAus/oceaniaR-hack/issues)
+If you have a question, please file an [Issue here](https://github.com/StatSocAus/oceaniaR-hack/issues)  
+
+Naming credit for OceaniaR to Miles McBain. Great idea!
